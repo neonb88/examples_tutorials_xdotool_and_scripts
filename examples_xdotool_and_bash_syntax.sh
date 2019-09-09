@@ -14,4 +14,23 @@ sleep 0.1
 #     xdotool mousemove 163 757
 #     xdotool getmouselocation
 #     xdotool key Return
-#     xdotool mousedown
+#     xdotool mousedown 1 # main (left) mouse "click" button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
